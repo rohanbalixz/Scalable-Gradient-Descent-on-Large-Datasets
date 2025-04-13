@@ -1,0 +1,8 @@
+Threads=1 Time=104.633
+Threads=2 Time=55.636
+Threads=4 Time=27.872
+Threads=8 Time=18.840
+Threads=16 Time=15.962
+Threads=32 Time=16.774
+Threads=64 Time=18.354
+Threads=128 Time=21.006
